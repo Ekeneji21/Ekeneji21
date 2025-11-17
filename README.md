@@ -54,8 +54,8 @@ Here’s what I’ve been building in my digital lab:
 <p align="center">
   <a href="mailto:gomoekeneji@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="tel:+263783031650"><img src="https://img.icons8.com/fluency/48/phone.png" width="45"/></a>
-  <a href="https://github.com/EkenejiGomo"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/Ekeneji21"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https:https://www.linkedin.com/in/ekeneji-gomo-26088b336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 </p>
 
 📧 **Email:** gomoekeneji@gmail.com  
