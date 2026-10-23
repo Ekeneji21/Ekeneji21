@@ -1,90 +1,59 @@
-EKENEJI TANAKA GOMO
 
-FULL STACK DEVELOPER / SOFTWARE ENGINEERING
+E. Gomo | Full Stack Developer
 
-I build software that works.
+Building software that solves real problems.
 
-Software Engineering student at the University of Zimbabwe, working across web development, backend systems, databases and mobile applications.
+I'm a software developer focused on designing and building web applications, backend systems, and digital products. I enjoy turning ideas into working solutions, learning new technologies, and improving the way software is built.
 
-Based in Harare, Zimbabwe
+About Me
 
-"GitHub" (https://github.com/Ekeneji21) · "Email" (mailto:gomoekeneji@gmail.com)
+- Full Stack Developer
+- Interested in software engineering, system design, and product development
+- Building practical applications across different industries
+- Focused on clean code, usability, and maintainable systems
 
----
+Tech Stack
 
-01 — TECHNICAL ARSENAL
+Frontend
 
-Area| Technologies
-Frontend| React.js, JavaScript, HTML5, CSS3
-Backend| Node.js, Express.js, REST APIs
-Languages| Python, Java, C#, SQL
-Mobile| Flutter
-Databases| PostgreSQL, MySQL
-AI Integration| AI APIs, application integration
-Tools & Systems| Git, GitHub, Linux, Windows
-IT Infrastructure| Active Directory, networking, troubleshooting
+- React.js
+- JavaScript
+- HTML5 & CSS3
 
----
+Backend
 
-02 — SELECTED WORK
+- Node.js
+- Express.js
+- REST APIs
 
-MEDISCRIBE
-"Healthcare · Full Stack"
+Database
 
-A telemedicine platform built around patient-doctor communication, authentication and backend APIs.
+- PostgreSQL
+- SQL
 
-Stack: React.js / Node.js / PostgreSQL
+Tools & Workflow
 
-MEDIPRESCRIBE
-"Healthcare · Application Development"
+- Git & GitHub
+- Postman
+- Deployment and application debugging
 
-An electronic prescription platform with patient records, access controls, audit trails and AI-assisted drug interaction validation.
+Featured Work
 
-"OPEN PROJECT ↗" (https://eprescribe.netlify.app)
+I build applications focused on practical use cases, including healthcare technology, financial systems, business applications, and other digital solutions.
 
-GREENTOKEN
-"Environmental Technology"
+Explore my repositories to see the code, implementation details, and technologies behind my projects.
 
-A platform for issuing and tracking carbon credits and reporting environmental impact.
+What I Value
 
-"OPEN PROJECT ↗" (https://apexmountaintechnologies.netlify.app)
+- Writing maintainable code
+- Solving problems through practical engineering
+- Building products with a clear purpose
+- Learning by building and improving
 
-AI CREDIT SCORING
-"Python · Data Processing"
+Connect With Me
 
-A credit assessment system using data-driven scoring and structured database design.
-
-"OPEN PROJECT ↗" (https://credit-score-lilac.vercel.app)
+- GitHub: "@Ekeneji21" (https://github.com/Ekeneji21)
 
 ---
 
-03 — ENGINEERING FOUNDATION
-
-University of Zimbabwe
-
-BSc Honours Degree in Software Engineering
-2023 — Present
-
-Software architecture · Database systems · Web and mobile development · Object-oriented programming · Networking
-
----
-
-04 — BEYOND DEVELOPMENT
-
-IT support · Systems administration · Network configuration · Software testing · Debugging · Deployment · Technical documentation
-
----
-
-05 — LET'S BUILD SOMETHING
-
-Available for suitable software development roles, remote opportunities and freelance projects.
-
-Ekeneji Tanaka Gomo
-Harare, Zimbabwe
-
-"gomoekeneji@gmail.com" (mailto:gomoekeneji@gmail.com)
-"github.com/Ekeneji21" (https://github.com/Ekeneji21)
-
----
-
-<sub>SOFTWARE ENGINEERING · WEB · MOBILE · SYSTEMS</sub>
+Good software is not just about writing code. It's about solving the right problem.
